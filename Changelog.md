@@ -44,11 +44,11 @@
 >
 > #### **Fancy Menu** - 3.8.1-1.21.1-fabric
 > 
-> ### **Entity Cullting** - 1.9.4
+> #### **Entity Cullting** - 1.9.4
 > 
-> ## **Immediately Fast** - 1.6.8+1.21.1-fabric
+> #### **Immediately Fast** - 1.6.8+1.21.1-fabric
 > 
-> ## **YetAnotherConfigLib** - 3.8.1+1.21.1-fabric
+> #### **YetAnotherConfigLib** - 3.8.1+1.21.1-fabric
 
 ## v1.0.0(v0.1)
 + Initial pre-alpha release
